@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680446468125",
+    "project_id": "react-rex1",
+    "storage_bucket": "react-rex1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680446468125:android:783d429cdd0630894ca6f4",
+        "android_client_info": {
+          "package_name": "com.rex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoe3cNWBbs1b3bWhOz3gNx_YNdsLcK22M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
